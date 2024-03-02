@@ -16,6 +16,9 @@ The primary goal of this repository is to offer guidance and support to individu
 
 **No Responsibility for Accuracy**
 
+
 While every effort has been made to ensure the accuracy and reliability of the code provided, there is no guarantee that it is error-free or suitable for all applications. Users are advised to thoroughly review and test the code in their specific environments. The repository maintainer takes no responsibility for any inaccuracies, omissions, or adverse outcomes resulting from the use of the code.
 
 By accessing and using this repository, you agree to abide by these terms and acknowledge that the repository maintainer is not liable for any consequences arising from the use or misuse of the provided code.
+
+![CS50P](https://github.com/taharizvi-ai/CS50-P/assets/161812427/92f9f8b4-fb2e-47c0-a9bc-d3dc58f03953)
